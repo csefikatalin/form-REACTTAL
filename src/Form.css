@@ -1,0 +1,22 @@
+form {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+    width: 100%;
+    padding: 30px;
+}
+form input[type="text"] {
+    margin-left: 12px;
+}
+form * {
+    padding: 3px;
+}
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+.Form {
+    max-width: 500px;
+    margin: auto;
+}
